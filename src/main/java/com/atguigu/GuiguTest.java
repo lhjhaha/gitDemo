@@ -5,5 +5,6 @@ public class GuiguTest {
         System.out.println("hahaha");
         System.out.println("hello git");
         System.out.println("master");
+        System.out.println("hot_fix");
     }
 }
