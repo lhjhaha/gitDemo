@@ -6,5 +6,6 @@ public class GuiguTest {
         System.out.println("hello git");
         System.out.println("master");
         System.out.println("hot_fix");
+        System.out.println("push test");
     }
 }
